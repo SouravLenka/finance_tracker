@@ -1,0 +1,63 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# --------------------
+# Environment Variables
+# --------------------
+.env
+.env.*
+
+# --------------------
+# OS / Editor
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --------------------
+# Streamlit
+# --------------------
+.streamlit/
+.streamlit/secrets.toml
+
+# --------------------
+# Data & User Files
+# --------------------
+data/uploaded_pdfs/
+data/extracted/
+data/merchant_memory.json
+*.pdf
+*.csv
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Build / Cache
+# --------------------
+build/
+dist/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# --------------------
+# Jupyter
+# --------------------
+.ipynb_checkpoints/

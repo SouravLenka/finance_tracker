@@ -1,0 +1,10 @@
+pdfplumber
+pandas
+numpy
+faiss-cpu
+openai
+langchain
+streamlit
+matplotlib
+plotly
+python-dotenv
