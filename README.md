@@ -34,23 +34,23 @@ Interactive Dashboard
 ## 📂 Project Structure
 
 finance_tracker/
-│
+
 ├── app.py # Streamlit app entry point
-│
+
 ├── pdf_processing/
 │ └── extractor.py # PDF/DOCX transaction extraction
-│
+
 ├── analysis/
 │ ├── categorizer.py # Merchant → category mapping
 │ ├── analytics_engine.py # Financial calculations
 │ └── insights.py # AI advice layer (optional / local)
-│
+
 ├── visualization/
 │ └── dashboard.py # Charts & UI
-│
+
 ├── data/
 │ └── uploaded_pdfs/ # Temporary uploads
-│
+
 ├── requirements.txt
 └── README.md
 
