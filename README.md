@@ -160,7 +160,7 @@ http://localhost:8501
   - Local LLM (Ollama / LM Studio)
   - OpenAI (with API key)
 
-- Designed for **financial advice only**, not extraction
+- Designed for financial advice only, not extraction
 
 ---
 
